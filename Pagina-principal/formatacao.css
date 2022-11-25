@@ -674,7 +674,7 @@ video iframe
 {
     text-align: justify;
     width: 1000px;
-    height: 30%;
+    height: 50%;
     background-color: rgb(243, 243, 243);
     box-shadow: 0px 0px 10px black;
     display: none;
@@ -693,7 +693,7 @@ video iframe
     position: absolute;
     text-align: justify;
     width: 1000px;
-    height: 30%;
+    height: 50%;
     background-color: rgb(243, 243, 243);
     display: none;
     left: 100%;
@@ -834,7 +834,7 @@ video iframe
     position: absolute;
     text-align: justify;
     width: 1000px;
-    height: 30%;
+    height: 50%;
     background-color: rgb(243, 243, 243);
     box-shadow: 0px 0px 10px black;
     display: none;
@@ -853,7 +853,7 @@ video iframe
     position: absolute;
     text-align: justify;
     width: 1000px;
-    height: 30%;
+    height: 50%;
     background-color: rgb(243, 243, 243);
     display: none;
     left: 100%;
