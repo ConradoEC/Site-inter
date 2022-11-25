@@ -63,19 +63,19 @@ header ul
 
 /* CABEÇALHO - MENU */
 
-#menu
+.menu
 {
     font-family: 'Ubuntu', sans-serif;
     font-size: 18px;
 }
 
-#menu li
+.menu li
 {
     margin: 0px 8px;
     padding: 5px 10px;
 }
 
-#menu li a
+.menu li a
 {
     text-decoration: none;
     color: black;
@@ -84,7 +84,7 @@ header ul
       
 }
 
-#menu li a::after
+.menu li a::after
 {
     content: " ";
     width: 0%;
@@ -96,7 +96,7 @@ header ul
     transition: width 0.3s ease 0s, left 0.3s ease 0s;
 }
 
-#menu li a:hover::after
+.menu li a:hover::after
 {
     width: 100%;
 }
