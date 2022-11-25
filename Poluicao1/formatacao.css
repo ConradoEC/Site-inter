@@ -814,7 +814,7 @@ header ul
     position: absolute;
     text-align: justify;
     width: 80%;
-    height: 60%;
+    height: 70%;
     background-color: rgb(245, 245, 245);
     border-color: #ca3f3d;
     box-shadow: 0px 0px 10px black;
@@ -831,7 +831,7 @@ header ul
     left: 50%;
     transform: translateX(-50%);
     text-align: justify;
-    width: 80%;
+    width: 40%;
     height: 100%;
     background-color: rgb(245, 245, 245);
     display: none;
